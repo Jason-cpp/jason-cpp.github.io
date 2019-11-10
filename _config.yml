@@ -70,11 +70,11 @@ netease_comment: false
 
 gitalk:
    enable: true
-   owner: jason-cpp
+   owner: Jason-cpp
    repo: jason-cpp.github.io
    clientID: 5af90a3c38b3b7dc21bf
    clientSecret: 71fb600d3c36a0fa39590215f17cb2d0f038ffa8
-   admin: jason-cpp
+   admin: Jason-cpp
 
 
 # Analytics settings
