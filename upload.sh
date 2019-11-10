@@ -42,13 +42,13 @@ git add .
 
 git stage .
 
-git commit -a -m "${REPLY}"
+git commit  -m "${REPLY}"
 
 git status
 
 git gc
 
-git push 
+git push origin master
 
 echo "感谢使用我们的上传工具!"
 echo " __________   _      _    _______    _      _   _    _        _       _"
