@@ -42,7 +42,7 @@ git add .
 
 git stage .
 
-git commit  -m "${REPLY}"
+git commit  -m "Jason:${REPLY}"
 
 git status
 
