@@ -29,7 +29,7 @@ echo " \______/   |_|        |________|  |________|   |_|  |_|  |_____|"
 echo ""
 echo "---------------------------------------------------------------------------"
 #cd ..
-git pull origin master
+#git pull origin master
 echo ""
 echo ""
 
@@ -48,7 +48,7 @@ git status
 
 git gc
 
-git push origin master
+git push
 
 echo "感谢使用我们的上传工具!"
 echo " __________   _      _    _______    _      _   _    _        _       _"
