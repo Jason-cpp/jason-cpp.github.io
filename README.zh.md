@@ -1,4 +1,5 @@
 # Hux blog 模板
+ Jason
 
 ### [我的博客在这里 &rarr;](http://huxpro.github.io)
 
@@ -213,7 +214,7 @@ disqus_username: _你的用户名_
 
 #### Analytics
 
-网站分析，现在支持百度统计和Google Analytics。需要去官方网站注册一下，然后将返回的code贴在下面：
+网站分析，现在支持百度统计哈哈和Google Analytics。需要去官方网站注册一下，然后将返回的code贴在下面：
 
 ```
 # Baidu Analytics

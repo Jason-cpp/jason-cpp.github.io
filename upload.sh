@@ -48,7 +48,7 @@ git status
 
 git gc
 
-git push
+git push 
 
 echo "感谢使用我们的上传工具!"
 echo " __________   _      _    _______    _      _   _    _        _       _"
@@ -62,6 +62,6 @@ echo "     |_|     |_|    |_|  |_|   |_|  |_|  \___| |_|   \_\      \_______/"
 echo "请稍等 ...我们正在进行最后一次推送检验..."
 git pull origin master
 
-clear
+#clear
 
 echo "运行完毕"
