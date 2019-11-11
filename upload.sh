@@ -29,20 +29,20 @@ echo " \______/   |_|        |________|  |________|   |_|  |_|  |_____|"
 echo ""
 echo "---------------------------------------------------------------------------"
 #cd ..
-git pull origin master
+#git pull origin master
 echo ""
 echo ""
 
 echo "我们需要你提供一下更新留言，马上就可以结束。"
 echo "只不过，希望你打出来的字不要有删除修改，否则，在项目里的更新留言可能会出现像 �[D 这样的字符。"
 #echo ""
-read -p "你的输入 >"
+#read -p "你的输入 >"
 
 git add .
 
 git stage .
 
-git commit  -m "Jason:${REPLY}"
+git commit  -m "Jason:update"
 
 git status
 
