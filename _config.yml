@@ -78,12 +78,12 @@ gitalk:
 
 
 # Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
+Baidu Analytics 
+ba_track_id: 2e014a9060d8e8e4dce81c5a46e2c3ef
 
 # Google Analytics
-ga_track_id: 'UA-124793396-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+#ga_track_id: 'GTM-P93BGWV'            # Format: UA-xxxxxx-xx
+#ga_domain: auto
 
 
 
