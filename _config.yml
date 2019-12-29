@@ -53,7 +53,8 @@ paginate_path: "page:num"   #分页页面路径格式
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+  input: GFM     
+  math_engine: katex                       # use Github Flavored Markdown !important
   syntax_highlighter_opts:
     span:
       line_numbers: false
